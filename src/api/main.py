@@ -12,6 +12,8 @@ from src.analysis.calculator import calculate_daily_returns, get_high_low, calcu
 app = FastAPI()
 
 
+
+
 # -------------------------This function hits url of home page--------------------#
 
 
